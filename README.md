@@ -1,6 +1,6 @@
 # File-Signature-Discovery
 
-Command line application (written in C#) that does the following:
+Command line application (C#) that does the following:
 
 A. Takes two inputs and a flag
 	i. A directory that contains the files to be analyzed
