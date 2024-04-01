@@ -13,3 +13,5 @@ C. For each file that is a PDF or a JPG, creates an entry in the output CSV cont
 	i. The full path to the file
 	ii. The actual file type (PDF or JPG)
 	iii. The MD5 hash of the file contents
+
+#Comments
